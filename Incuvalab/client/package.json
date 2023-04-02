@@ -52,5 +52,6 @@
     "postcss": "^8.4.12",
     "tailwindcss": "^3.0.23"
   },
-  "proxy": "https://crsv-production.up.railway.app/"
+  "proxy": "https://crsv-production.up.railway.app/",
+  "homepage": "."
 }
