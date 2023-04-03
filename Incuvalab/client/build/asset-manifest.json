@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.5a0ad3bc.css",
-    "main.js": "./static/js/main.fb1a3deb.js",
-    "static/media/homepage.jpg": "./static/media/homepage.0e351d2fc3da4d568368.jpg",
-    "static/media/homepage1.jpg": "./static/media/homepage1.2cd443e30b5adf2a5718.jpg",
-    "static/media/homepage2.jpg": "./static/media/homepage2.125305f6e32e9de88dbc.jpg",
-    "static/media/manchas.png": "./static/media/manchas.e026c13c78f60fff3bd5.png",
-    "static/media/finances.svg": "./static/media/finances.c431262ddff426586612a27fc27ae520.svg",
-    "static/media/logo.png": "./static/media/logo.d9df970ed73d925e1de5.png",
-    "static/media/profile.webp": "./static/media/profile.9af1478846823d02d072.webp",
-    "index.html": "./index.html",
-    "main.5a0ad3bc.css.map": "./static/css/main.5a0ad3bc.css.map",
-    "main.fb1a3deb.js.map": "./static/js/main.fb1a3deb.js.map"
+    "main.css": "/static/css/main.5a0ad3bc.css",
+    "main.js": "/static/js/main.6b9b1f87.js",
+    "static/media/homepage.jpg": "/static/media/homepage.0e351d2fc3da4d568368.jpg",
+    "static/media/homepage1.jpg": "/static/media/homepage1.2cd443e30b5adf2a5718.jpg",
+    "static/media/homepage2.jpg": "/static/media/homepage2.125305f6e32e9de88dbc.jpg",
+    "static/media/manchas.png": "/static/media/manchas.e026c13c78f60fff3bd5.png",
+    "static/media/finances.svg": "/static/media/finances.c431262ddff426586612a27fc27ae520.svg",
+    "static/media/logo.png": "/static/media/logo.d9df970ed73d925e1de5.png",
+    "static/media/profile.webp": "/static/media/profile.9af1478846823d02d072.webp",
+    "index.html": "/index.html",
+    "main.5a0ad3bc.css.map": "/static/css/main.5a0ad3bc.css.map",
+    "main.6b9b1f87.js.map": "/static/js/main.6b9b1f87.js.map"
   },
   "entrypoints": [
     "static/css/main.5a0ad3bc.css",
-    "static/js/main.fb1a3deb.js"
+    "static/js/main.6b9b1f87.js"
   ]
 }
