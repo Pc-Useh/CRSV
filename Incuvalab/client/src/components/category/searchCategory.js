@@ -8,7 +8,7 @@ export function SearchByCategory() {
 
     return (
         <DropdownButton id="dropdown-item-button" title="Buscar por Categoría" size="md" className="d-grid gap-2 m-2" variant="dark">
-            {postsCat.map(postCat => (
+            {postsCat && postsCat.map((postCat) => (
                 <Link to="/catalogue/category" style={{ color: 'inherit', textDecoration: 'inherit' }}>
                     <Dropdown.Item key={postCat.IdCategory} as="button" onClick={() => getPostsFundByCat(postCat.IdCategory)}>
                         {postCat.CategoryName}

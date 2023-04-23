@@ -136,8 +136,8 @@ export const FundingProvider = ({ children }) => {
 
     //Categories
 
-    const [postsCat, setPostsCategories] = useState([])
-    const [category, setCategorys] = useState([])
+    const [postsCat, setPostsCategories] = useState([]);
+    const [category, setCategorys] = useState([]);
 
     const getCategories =  async () => {
         const res = await getCatRequests()

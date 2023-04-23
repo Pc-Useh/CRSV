@@ -8,7 +8,7 @@ import "../../css/cards.css"
 
 export function FundCards() {
 
-    const { postsFundingTop } = useFunding()
+    const { postsFundingTop } = useFunding();
 
     return (<div>
         {postsFundingTop.length != 0?  

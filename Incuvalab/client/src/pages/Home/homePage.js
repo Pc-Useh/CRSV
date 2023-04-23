@@ -122,7 +122,6 @@ export function HomePage() {
                             <p className='display-6 fw-bold'>Proyectos destacados</p>
                         </div>
 
-                        <FundCards />
                     </div>
 
                     <hr />
